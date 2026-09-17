@@ -1,3 +1,24 @@
+# Accounting System Development Roadmap
+
+## Feature Sequence
+
+1.  **Chart of Accounts**
+2.  **Accounting Periods**
+3.  **General Ledger / Journal Entry**
+4.  **Cash & Bank**
+5.  **Accounts Receivable**
+6.  **Accounts Payable**
+7.  **Sales**
+8.  **Purchasing**
+9.  **Inventory**
+10. **Fixed Assets**
+11. **Payroll Integration**
+12. **Tax / VAT**
+13. **Financial Statements**
+14. **Year-End Closing**
+15. **Audit & Internal Controls**
+
+
 # Chart of Accounts — Complete User Stories
 
 ## 1. Module Overview
